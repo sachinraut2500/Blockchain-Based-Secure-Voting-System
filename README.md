@@ -15,4 +15,4 @@ A decentralized voting system using blockchain principles. Each vote is a transa
 git clone <repo-url>
 cd secure_voting_system
 -------
------------
+-------------
