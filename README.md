@@ -1,5 +1,5 @@
 # Blockchain-Based Secure Voting System
-
+-----
 ## Overview
 A decentralized voting system using blockchain principles. Each vote is a transaction stored in an immutable chain, ensuring security and transparency.
 
